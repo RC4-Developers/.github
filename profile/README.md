@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## 🤓 Students in NUS that stays in RC4 who codes
+
+### Mission
+
+### Vision
+
+### Code of Conduct
+
+- Coming Soon...
+
 <!--
 
 **Here are some ideas to get you started:**
