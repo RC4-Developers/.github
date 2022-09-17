@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, welcome to RC4-Developers 👋
 
-## 🤓 Students in NUS that stays in RC4 who codes
+### 🤓 Students in NUS that stays in RC4 who codes
 
 ### Mission
 
